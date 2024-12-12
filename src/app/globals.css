@@ -25,3 +25,8 @@ body {
     text-wrap: balance;
   }
 }
+
+h1{
+  background-color: black;
+  color: red;
+}
